@@ -1,0 +1,4 @@
+#you can open your testcase with <<:[  :]>>
+#then you can write your input first and then  '->' then write the correct output <<:[input -> ouput:]>>
+#example  ~~ <<:[123 -> 246:]>>
+
